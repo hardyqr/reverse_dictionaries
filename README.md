@@ -6,6 +6,11 @@
 [[paper]](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00080)
 [[code]](https://github.com/fh295/DefGen2)
 
+**Implementing a Reverse Dictionary, based on word definitions, using a Node-Graph Architecture.**<br>
+*Sushrut Thorat, Varad Choudhari.*<br>
+**_(COLING 16)_**<br>
+[[paper]](https://www.aclweb.org/anthology/C16-1263.pdf)
+
 **Mapping Text to Knowledge Graph Entitiesusing Multi-Sense LSTMs.**<br>
 *Dimitri Kartsaklis, Mohammad Taher Pilehvar, Nigel Collier.*<br>
 **_(EMNLP 18)_**<br>
