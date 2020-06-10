@@ -37,3 +37,4 @@
 **_(AAAI 20)_**<br>
 [[paper]](https://arxiv.org/pdf/1912.08441.pdf)
 [[code]](https://github.com/thunlp/MultiRD)
+[[demo]](https://wantwords.thunlp.org/)
