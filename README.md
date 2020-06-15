@@ -10,6 +10,7 @@
 *Sushrut Thorat, Varad Choudhari.*<br>
 **_(COLING 16)_**<br>
 [[paper]](https://www.aclweb.org/anthology/C16-1263.pdf)
+[[code]](https://github.com/novelmartis/RD16demo)
 
 **Mapping Text to Knowledge Graph Entitiesusing Multi-Sense LSTMs.**<br>
 *Dimitri Kartsaklis, Mohammad Taher Pilehvar, Nigel Collier.*<br>
