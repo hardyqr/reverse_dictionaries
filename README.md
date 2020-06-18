@@ -32,6 +32,7 @@
 *Muhao Chen, Yingtao Tian, Haochen Chen, Kai-Wei Chang, Steven Skiena, Carlo Zaniolo.*<br>
 **_(CoNLL 19)_**<br>
 [[paper]](https://www.aclweb.org/anthology/K19-1015.pdf)
+[[code]](https://github.com/muhaochen/bilingual_dictionaries)
 
 **Multi-channel Reverse Dictionary Model.**<br>
 *Lei Zhang, Fanchao Qi, Zhiyuan Liu, Yasheng Wang, Qun Liu, Maosong Sun.*<br>
