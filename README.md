@@ -47,3 +47,9 @@
 [[paper]](https://arxiv.org/pdf/1912.08441.pdf)
 [[code]](https://github.com/thunlp/MultiRD)
 [[demo]](https://wantwords.thunlp.org/)
+
+**BERT for Monolingual and Cross-Lingual Reverse Dictionary.**<br>
+*Hang Yan, Xiaonan Li, Xipeng Qiu.*<br>
+**_(EMNLP 20-Findings)_**<br>
+[[paper]](https://arxiv.org/pdf/2009.14790)
+[[code]](https://github.com/yhcc/BertForRD)
