@@ -12,6 +12,12 @@
 [[paper]](https://www.aclweb.org/anthology/C16-1263.pdf)
 [[code]](https://github.com/novelmartis/RD16demo)
 
+**Definition Modeling: Learning to define word embeddings in natural language**<br>
+*Thanapon Noraset, Chen Liang, Larry Birnbaum, Doug Downey*<br>
+**_(AAAI 17)_**<br>
+[[paper]](https://arxiv.org/pdf/1612.00394.pdf)
+[[code]](https://github.com/Websail-NU/torch-defseq)
+
 **Mapping Text to Knowledge Graph Entitiesusing Multi-Sense LSTMs.**<br>
 *Dimitri Kartsaklis, Mohammad Taher Pilehvar, Nigel Collier.*<br>
 **_(EMNLP 18)_**<br>
