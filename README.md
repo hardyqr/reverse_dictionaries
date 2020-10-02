@@ -17,6 +17,7 @@
 **_(AAAI 17)_**<br>
 [[paper]](https://arxiv.org/pdf/1612.00394.pdf)
 [[code]](https://github.com/Websail-NU/torch-defseq)
+[[demo]](http://thor.cs.northwestern.edu:24603/)
 
 **Mapping Text to Knowledge Graph Entitiesusing Multi-Sense LSTMs.**<br>
 *Dimitri Kartsaklis, Mohammad Taher Pilehvar, Nigel Collier.*<br>
