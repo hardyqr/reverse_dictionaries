@@ -12,6 +12,13 @@
 [[paper]](https://www.aclweb.org/anthology/C16-1263.pdf)
 [[code]](https://github.com/novelmartis/RD16demo)
 
+**Definition Modeling: Learning to define word embeddings in natural language**<br>
+*Thanapon Noraset, Chen Liang, Larry Birnbaum, Doug Downey*<br>
+**_(AAAI 17)_**<br>
+[[paper]](https://arxiv.org/pdf/1612.00394.pdf)
+[[code]](https://github.com/Websail-NU/torch-defseq)
+[[demo]](http://thor.cs.northwestern.edu:24603/)
+
 **Mapping Text to Knowledge Graph Entitiesusing Multi-Sense LSTMs.**<br>
 *Dimitri Kartsaklis, Mohammad Taher Pilehvar, Nigel Collier.*<br>
 **_(EMNLP 18)_**<br>
@@ -40,3 +47,9 @@
 [[paper]](https://arxiv.org/pdf/1912.08441.pdf)
 [[code]](https://github.com/thunlp/MultiRD)
 [[demo]](https://wantwords.thunlp.org/)
+
+**BERT for Monolingual and Cross-Lingual Reverse Dictionary.**<br>
+*Hang Yan, Xiaonan Li, Xipeng Qiu.*<br>
+**_(EMNLP 20-Findings)_**<br>
+[[paper]](https://arxiv.org/pdf/2009.14790)
+[[code]](https://github.com/yhcc/BertForRD)
